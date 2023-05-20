@@ -1,1 +1,1 @@
-#Rust Projects for learning
+Rust Projects for learning

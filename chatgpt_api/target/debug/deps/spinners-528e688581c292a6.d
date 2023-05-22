@@ -1,0 +1,11 @@
+/home/shivam/github/rustprojects/chatgpt_api/target/debug/deps/spinners-528e688581c292a6.rmeta: /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/lib.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/utils/mod.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/utils/spinner_data.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/utils/spinner_names.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/utils/spinners_data.rs
+
+/home/shivam/github/rustprojects/chatgpt_api/target/debug/deps/libspinners-528e688581c292a6.rlib: /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/lib.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/utils/mod.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/utils/spinner_data.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/utils/spinner_names.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/utils/spinners_data.rs
+
+/home/shivam/github/rustprojects/chatgpt_api/target/debug/deps/spinners-528e688581c292a6.d: /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/lib.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/utils/mod.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/utils/spinner_data.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/utils/spinner_names.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/utils/spinners_data.rs
+
+/home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/lib.rs:
+/home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/utils/mod.rs:
+/home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/utils/spinner_data.rs:
+/home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/utils/spinner_names.rs:
+/home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/spinners-2.0.0/src/utils/spinners_data.rs:

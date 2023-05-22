@@ -1,0 +1,12 @@
+/home/shivam/github/rustprojects/chatgpt_api/target/debug/deps/term-0def268087b24569.rmeta: /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/lib.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/mod.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/searcher.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/parser/compiled.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/parser/names.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/parm.rs
+
+/home/shivam/github/rustprojects/chatgpt_api/target/debug/deps/libterm-0def268087b24569.rlib: /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/lib.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/mod.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/searcher.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/parser/compiled.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/parser/names.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/parm.rs
+
+/home/shivam/github/rustprojects/chatgpt_api/target/debug/deps/term-0def268087b24569.d: /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/lib.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/mod.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/searcher.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/parser/compiled.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/parser/names.rs /home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/parm.rs
+
+/home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/lib.rs:
+/home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/mod.rs:
+/home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/searcher.rs:
+/home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/parser/compiled.rs:
+/home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/parser/names.rs:
+/home/shivam/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.6.1/src/terminfo/parm.rs:

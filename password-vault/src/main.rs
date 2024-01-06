@@ -49,7 +49,7 @@ fn main(){
             "1" => {
                 clr();
                 let entry = ServiceInfo::new(
-                    prompt("Service :"),
+                    prompt("Password Service :"),
                     prompt("Username :"),
                     prompt("Password :"),
                 );
